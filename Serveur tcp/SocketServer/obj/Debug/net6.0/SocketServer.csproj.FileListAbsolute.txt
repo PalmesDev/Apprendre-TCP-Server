@@ -1,0 +1,28 @@
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\bin\Debug\net6.0\SocketServer.exe
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\bin\Debug\net6.0\SocketServer.deps.json
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\bin\Debug\net6.0\SocketServer.runtimeconfig.json
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\bin\Debug\net6.0\SocketServer.dll
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\bin\Debug\net6.0\SocketServer.pdb
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\obj\Debug\net6.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfo.cs
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\obj\Debug\net6.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\obj\Debug\net6.0\SocketServer.dll
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\obj\Debug\net6.0\refint\SocketServer.dll
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\obj\Debug\net6.0\SocketServer.pdb
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\obj\Debug\net6.0\SocketServer.genruntimeconfig.cache
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\ConsoleApp1\SocketServer\obj\Debug\net6.0\ref\SocketServer.dll
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\bin\Debug\net6.0\SocketServer.exe
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\bin\Debug\net6.0\SocketServer.deps.json
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\bin\Debug\net6.0\SocketServer.runtimeconfig.json
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\bin\Debug\net6.0\SocketServer.dll
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\bin\Debug\net6.0\SocketServer.pdb
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\obj\Debug\net6.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfo.cs
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\obj\Debug\net6.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\obj\Debug\net6.0\SocketServer.dll
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\obj\Debug\net6.0\refint\SocketServer.dll
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\obj\Debug\net6.0\SocketServer.pdb
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\obj\Debug\net6.0\SocketServer.genruntimeconfig.cache
+C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketServer\obj\Debug\net6.0\ref\SocketServer.dll
