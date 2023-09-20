@@ -2,12 +2,14 @@
 using System.Net.Sockets;
 using System.Text;
 
-IPHostEntry ipHostInfo = Dns.GetHostEntry(Dns.GetHostName());
-IPAddress ipAddress = ipHostInfo.AddressList[0].MapToIPv4();
+Console.WriteLine("Client starting...");
 
-IPEndPoint iPEndPoint = new IPEndPoint(ipAddress, 8080); 
+IPHostEntry ipHostInfo = await Dns.GetHostEntryAsync(Dns.GetHostName());
+IPAddress ipAddress = ipHostInfo.AddressList[0];
+
+IPEndPoint iPEndPoint = new IPEndPoint(ipAddress, 54265);
 // Definit une adresse IP serveur ainsi que son port de connexion.
-
+Console.WriteLine($"Adresse du serveur utilisant l'ip : \"{ipAddress.MapToIPv4()}\" sur le port : \"{iPEndPoint.Port}\" trouvée !");
 using Socket client = new(iPEndPoint.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
 // Definit un socket avec comme parametre l'ip, le type de socket (ici stream pour une communication send/recive), et le type de protocol (ici TCP) permettant la connexion au serveur distant.
 
@@ -21,7 +23,7 @@ while (true)
     // Envoi du message au serveur.
 
 
-    var message = "ConnexionHelloMessage";
+    var message = "Hello Server !";
     // Definition du message. 
     var messageBytes = Encoding.UTF8.GetBytes(message);
     // Encodage du message en UTF8 (Binaire).
@@ -40,12 +42,12 @@ while (true)
     // Attend et recoit le message dans le buffer 
     var reponse = Encoding.UTF8.GetString(buffer, 0, received);
     // Décode le message dans le buffer 
-    if(reponse == "Message reçu par le serveur <Fin de message>")
+    if(reponse == "Hello Client !")
     {
         Console.WriteLine($"Le client a reçu l'accusé de reception : \"{reponse}\"");
-
+        break;
     }
 
-    client.Shutdown(SocketShutdown.Both);
-
 }
+
+client.Shutdown(SocketShutdown.Both);

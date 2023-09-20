@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp1\SocketClient.csproj" />
-  </ItemGroup>
-
 </Project>

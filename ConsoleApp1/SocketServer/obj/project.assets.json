@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "SocketClient/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/SocketClient.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SocketClient.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "SocketClient/1.0.0": {
-      "type": "project",
-      "path": "../ConsoleApp1/SocketClient.csproj",
-      "msbuildProject": "../ConsoleApp1/SocketClient.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "SocketClient >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\garci\\.nuget\\packages\\": {}
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\garci\\Documents\\Github\\Apprendre-TCP-Server\\ConsoleApp1\\ConsoleApp1\\SocketClient.csproj": {
-              "projectPath": "C:\\Users\\garci\\Documents\\Github\\Apprendre-TCP-Server\\ConsoleApp1\\ConsoleApp1\\SocketClient.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
