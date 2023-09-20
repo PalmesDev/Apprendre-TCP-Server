@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N3LiTNnqKGrtZbkvXI1JHYyl7TcyPZb3Ihx/55XZ9UMbB9D7D3P2bTUN/CDeMS6vTxKB1QJcfWeON0n3PIMn1g==",
+  "dgSpecHash": "pK77Ypm+mgKfVHqO0AGnUf54DCIhoKP6wN6aKfwSkQ7BdQpP5aN33b3aYseTNg+VWyw9qVLI/+IwgqHbgZqLrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\garci\\Documents\\Github\\Apprendre-TCP-Server\\Serveur tcp\\SocketClient\\SocketClient.csproj",
+  "projectFilePath": "C:\\Users\\garci\\Documents\\GitHub\\Apprendre-TCP-Server\\Serveur tcp\\SocketClient\\SocketClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

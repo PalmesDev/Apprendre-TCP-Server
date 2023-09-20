@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\garci\\Documents\\Github\\Apprendre-TCP-Server\\Serveur tcp\\SocketServer\\SocketServer.csproj": {}
+    "C:\\Users\\garci\\Documents\\GitHub\\Apprendre-TCP-Server\\Serveur tcp\\SocketServer\\SocketServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\garci\\Documents\\Github\\Apprendre-TCP-Server\\Serveur tcp\\SocketServer\\SocketServer.csproj": {
+    "C:\\Users\\garci\\Documents\\GitHub\\Apprendre-TCP-Server\\Serveur tcp\\SocketServer\\SocketServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\garci\\Documents\\Github\\Apprendre-TCP-Server\\Serveur tcp\\SocketServer\\SocketServer.csproj",
+        "projectUniqueName": "C:\\Users\\garci\\Documents\\GitHub\\Apprendre-TCP-Server\\Serveur tcp\\SocketServer\\SocketServer.csproj",
         "projectName": "SocketServer",
-        "projectPath": "C:\\Users\\garci\\Documents\\Github\\Apprendre-TCP-Server\\Serveur tcp\\SocketServer\\SocketServer.csproj",
+        "projectPath": "C:\\Users\\garci\\Documents\\GitHub\\Apprendre-TCP-Server\\Serveur tcp\\SocketServer\\SocketServer.csproj",
         "packagesPath": "C:\\Users\\garci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\garci\\Documents\\Github\\Apprendre-TCP-Server\\Serveur tcp\\SocketServer\\obj\\",
+        "outputPath": "C:\\Users\\garci\\Documents\\GitHub\\Apprendre-TCP-Server\\Serveur tcp\\SocketServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\garci\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SocketClient
-build_property.ProjectDir = C:\Users\garci\Documents\Github\Apprendre-TCP-Server\Serveur tcp\SocketClient\
+build_property.ProjectDir = C:\Users\garci\Documents\GitHub\Apprendre-TCP-Server\Serveur tcp\SocketClient\
